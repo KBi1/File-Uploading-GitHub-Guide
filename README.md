@@ -1,2 +1,2 @@
 # File-Uploading-GitHub-Guide
-This GitHub repository is mainly focuses to giving clear and extensive information to help users in efficiently uploading files to their GitHub repositories. It also addresses and supports in the resolution of any issues that may occur throughout the file upload process.
+This repository provides clear, practical guidance to help users upload files to their GitHub projects. It also explains common problems that can arise during the upload process and shows how to resolve them efficiently.
